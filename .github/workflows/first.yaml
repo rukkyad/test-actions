@@ -12,6 +12,3 @@ jobs:
       run: |
         pwd 
         node -v
-        ls -a
-
-
